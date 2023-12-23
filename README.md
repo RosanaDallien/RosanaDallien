@@ -22,9 +22,9 @@
 
 Information Security Specialist with a passion for aligning security architecture plans and processes with security standards and business goals. I have extensive experience developing and testing security frameworks for cloud-based software, along with expertise in robust network defense strategies. Seeking a full-time position that offers professional challenges, utilizing my interpersonal skills, excellent time management, and problem-solving abilities. I am a detail-oriented team player with strong organizational skills, capable of handling multiple projects simultaneously with a high degree of accuracy.
 
-- 🔭 I’m currently working on **Python Projects**
+- 🔭 I’m currently looking for an **Entry Level Cybersecurity Engineer Position**
 - 🌱 I’m currently learning **Cyber Security**
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Cyber Security**
 - 📫 How to reach me: rosethejobseeker@gmail.com
   
 
