@@ -27,13 +27,6 @@ Information Security Specialist with a passion for aligning security architectur
 - 💬 Ask me about **Python**
 - 📫 How to reach me: rosethejobseeker@gmail.com
   
-## Skills
-
-- **Network Security Measures:** Kali Linux, Wireshark, Nessus, Metasploit, Nmap, Burpsuite, Active Directory, AWS, Azure
-- **Programming Languages:** C++, C, Java, Python, Perl, Bash, PHP, Powershell, Scripting, Computer Science, Cybersecurity
-- **Cybersecurity Expertise:** Policy Development, Computer Forensics, Cryptography, Adaptability, Curiosity, Critical Thinking, DevOps
-- **Additional Competencies:** Network Performance Monitoring, Splunk SIEM, NIST Security Standards, Multi-Factor Authentication, Security Systems Knowledge, Deductive Reasoning Skills, Data Classification, Communication, Reliable and Responsible
-- **Specialized Knowledge:** Penetration Testing, Access Control, System Architecture, Cybersecurity Analytics, CompTIA, Data Security, Threat Intelligence, Network Design, Risk Management, Information Security, Cloud Networking, Cloud Data, Cloud Infrastructure, AWS Cloud
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
