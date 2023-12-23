@@ -36,6 +36,14 @@ Information Security Specialist with a passion for aligning security architectur
 
 <br/>
 
+## 🛠️ Tools and Technologies
+
+- **Network Security Measures:** Kali Linux, Wireshark, Nessus, Metasploit, Nmap, Burpsuite, Active Directory, AWS, Azure
+- **Programming Languages:** C++, C, Java, Python, Perl, Bash, PHP, Powershell
+- **Cybersecurity Expertise:** Policy Development, Computer Forensics, Cryptography, Adaptability, Curiosity, Critical Thinking, DevOps
+- **Additional Competencies:** Network Performance Monitoring, Splunk SIEM, NIST Security Standards, Multi-Factor Authentication, Security Systems Knowledge, Deductive Reasoning Skills, Data Classification, Communication, Reliable and Responsible
+- **Specialized Knowledge:** Penetration Testing, Access Control, System Architecture, Cybersecurity Analytics, CompTIA, Data Security, Threat Intelligence, Network Design, Risk Management, Information Security, Cloud Networking, Cloud Data, Cloud Infrastructure, AWS Cloud
+
 <h2 align="center">📊 Github Stats 📊</h2>
 
 ![Khai Duong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RosanaDallien&show_icons=true&theme=radical)
