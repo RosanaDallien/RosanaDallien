@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rosana+Dallien!;" />
 </h1>
 
-<h3 align="center">Information Security Specialist from United States</h3>
+<h3 align="center">Cybersecurity Analyst from United States</h3>
 
 <br/>
 
@@ -20,7 +20,7 @@
 <br>
 
 
-Information Security Specialist with a passion for aligning security architecture plans and processes with security standards and business goals. I have extensive experience developing and testing security frameworks for cloud-based software, along with expertise in robust network defense strategies. Seeking a full-time position that offers professional challenges, utilizing my interpersonal skills, excellent time management, and problem-solving abilities. I am a detail-oriented team player with strong organizational skills, capable of handling multiple projects simultaneously with a high degree of accuracy.
+Rosana Dallien is a motivated individual with a dynamic skill set, aspiring to contribute to Cybersecurity Engineering. Holding certificates in CompTIA Security+, CISA, Linux, Pentest+, Python, Java, SQL, and AWS Associate Architect, she brings a strong educational background. With adaptability and interpersonal skills, she aims to apply her analytical mindset to address complex cybersecurity challenges, specializing in Access Control, System Architecture, Cybersecurity Analytics, and Data Security. Rosana's expertise extends to threat intelligence, network design, risk management, and information security, enabling her to develop strategies for safeguarding digital assets and ensuring cloud-based solutions' security and resilience. Her commitment to continuous learning, technical acumen, and meticulous attention to detail make her well-suited for an entry-level Cybersecurity Engineering position.
 
 - 🔭 I’m currently looking for an **Entry Level Cybersecurity Engineer Position**
 - 🌱 I’m currently learning **Cyber Security**
