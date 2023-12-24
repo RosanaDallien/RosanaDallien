@@ -23,7 +23,7 @@
 Rosana Dallien is a motivated individual with a dynamic skill set, aspiring to contribute to Cybersecurity Engineering. Holding certificates in CompTIA Security+, CISA, Linux, Pentest+, Python, Java, SQL, and AWS Associate Architect, she brings a strong educational background. With adaptability and interpersonal skills, she aims to apply her analytical mindset to address complex cybersecurity challenges, specializing in Access Control, System Architecture, Cybersecurity Analytics, and Data Security. Rosana's expertise extends to threat intelligence, network design, risk management, and information security, enabling her to develop strategies for safeguarding digital assets and ensuring cloud-based solutions' security and resilience. Her commitment to continuous learning, technical acumen, and meticulous attention to detail make her well-suited for an entry-level Cybersecurity Engineering position.
 
 - 🔭 I’m currently looking for an **Entry Level Cybersecurity Engineer Position**
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 Completed **Cyber Security Trainings**
 - 💬 Ask me about **Cyber Security**
 - 📫 How to reach me: rosethejobseeker@gmail.com
   
@@ -39,7 +39,7 @@ Rosana Dallien is a motivated individual with a dynamic skill set, aspiring to c
 ## 🛠️ Tools and Technologies
 
 - **Network Security Measures:** Kali Linux, Wireshark, Nessus, Metasploit, Nmap, Burpsuite, Active Directory, AWS, Azure
-- **Programming Languages:** C++, C, Java, Python, Perl, Bash, PHP, Powershell
+- **Programming Languages:** C++, C, Java, Python, Perl, Bash, PHP, Powershell, SQL
 - **Cybersecurity Expertise:** Policy Development, Computer Forensics, Cryptography, Adaptability, Curiosity, Critical Thinking, DevOps
 - **Additional Competencies:** Network Performance Monitoring, Splunk SIEM, NIST Security Standards, Multi-Factor Authentication, Security Systems Knowledge, Deductive Reasoning Skills, Data Classification, Communication, Reliable and Responsible
 - **Specialized Knowledge:** Penetration Testing, Access Control, System Architecture, Cybersecurity Analytics, CompTIA, Data Security, Threat Intelligence, Network Design, Risk Management, Information Security, Cloud Networking, Cloud Data, Cloud Infrastructure, AWS Cloud
